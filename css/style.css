@@ -1,0 +1,27 @@
+*{
+   
+    
+    
+}
+.contenitore{
+ width: 1200px;
+ margin: auto;
+
+}
+
+.header-cont{
+    height: 40px;
+    background-color: plum;
+}
+
+.first-section{
+    height: 270px;
+    background-color: yellow;
+    margin-top: 7px;
+}
+
+.second-section{
+    height: 400px;
+    background-color: blue;
+    margin-top: 7px; 
+}
